@@ -1,0 +1,12 @@
+# EPG Translator NG example configuration
+provider=deepl
+source=auto
+destination=ro
+google_api_key=
+deepl_api_key=
+fallback_mymemory=no
+show_source=yes
+auto_eventview=yes
+translate_epg_titles=yes
+epg_horizon=48
+translate_infobar=yes
