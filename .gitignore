@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.ipk
+*.zip
+epgtranslatorng.conf
+epgtranslatorng-cache*.json
